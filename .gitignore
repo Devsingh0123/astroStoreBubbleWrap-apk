@@ -1,0 +1,6 @@
+android.keystore
+SIGNING_INFO.txt
+build/
+app/build/
+.gradle/
+app-release-*
